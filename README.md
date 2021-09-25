@@ -1,6 +1,4 @@
-# Image-Gallery-Demo
 🔑Steps to Run this program in your System.
-
 Download the Zip file and Extract it.
 Open the extracted file and right click on files with extension .resx.
 Click on the properties and tick✔ the unblock option.
