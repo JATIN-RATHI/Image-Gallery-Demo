@@ -1,0 +1,10 @@
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\bin\Debug\My Application(Dynamic UI).exe.config
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\bin\Debug\My Application(Dynamic UI).exe
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\bin\Debug\My Application(Dynamic UI).pdb
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My Application(Dynamic UI).csproj.AssemblyReference.cache
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My_Application_Dynamic_UI_.Properties.Resources.resources
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My Application(Dynamic UI).csproj.GenerateResource.cache
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My Application(Dynamic UI).csproj.CoreCompileInputs.cache
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My Application(Dynamic UI).exe
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My Application(Dynamic UI).pdb
+C:\Users\RATHI\source\repos\My Application(Dynamic UI)\My Application(Dynamic UI)\obj\Debug\My_Application_Dynamic_UI_.Form1.resources
